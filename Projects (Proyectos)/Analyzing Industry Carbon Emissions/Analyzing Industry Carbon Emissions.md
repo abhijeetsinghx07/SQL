@@ -69,7 +69,7 @@ WHERE country='India' AND year='2017';
 
 ### 6. Industry representation
 
-large. But what if that is simply a result of the dataset's high concentration of businesses in the Materials sector? Let's look at the sectors that year had the highest representation.
+The carbon footprint of the materials sector in 2017 appears to have been rather large. But what if that is simply a result of the dataset's high concentration of businesses in the Materials sector? Let's look at the sectors that year had the highest representation.
 ```sql
 -- Return the industry groups and a count of the number of records for each group
 -- Limit the results to only those from 2017 and alias the count as count_industry
