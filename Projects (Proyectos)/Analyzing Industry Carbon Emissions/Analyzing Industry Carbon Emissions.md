@@ -29,7 +29,7 @@ LIMIT 6;
 - Downstream emissions(downstream_percent_total_pcf): Emissions that happen after a product leaves the corporation, like after Coca-Cola sells beverages to McDonald's.
 
 
-### 2. Nestlé emissions?
+### 2. Nestle emissions?
 
 Let's look at a small subset of the data: emissions reported by Nestle. 
 ```sql
