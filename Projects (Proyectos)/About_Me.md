@@ -3,7 +3,9 @@ ___
 ### Food, clothing, footwear, and appliances all contribute to more than 75% of the world's carbon emissions and emissons.
 ___
 
-![image](https://user-images.githubusercontent.com/108348003/211213928-ab581c1d-fe7d-453f-8c37-e00ce1f05f28.png)
+
+<img src="https://user-images.githubusercontent.com/108348003/211213928-ab581c1d-fe7d-453f-8c37-e00ce1f05f28.png" alt="Sample Image" width="400" height="300"/>
+
 
 
 **Product carbon footprints (PCFs) for various businesses are contained in the data, which is publically accessible online. The PCFs are the CO2 emissions from a certain product that may be attributed to greenhouse gas emissions (carbon dioxide equivalent).**
